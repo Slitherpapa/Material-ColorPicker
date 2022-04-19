@@ -1,4 +1,4 @@
 # Material-ColorPicker
 Um color picker em estilo material feito no kodular.
-
-https://user-images.githubusercontent.com/69695537/163994313-e1ebf1de-2202-4305-ae24-c2055cbab734.mp4
+<br><br>
+![](https://user-images.githubusercontent.com/69695537/163995911-fdea1c43-59d3-4cc4-a905-bea2f80c6ba9.gif)
